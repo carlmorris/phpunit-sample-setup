@@ -38,7 +38,7 @@ Time: 3.55 seconds, Memory: 4.25MB
 OK (1 test, 1 assertion)
 ```
 
-The important bit is the `OK (1 test, 1 assertion)`.
+The important bit is the `OK (1 test, 1 assertion)`. If you see that then you've installed everything correctly to run PHPUnit!
 
 
 ## Using a VM
@@ -74,6 +74,6 @@ Time: 3.55 seconds, Memory: 4.25MB
 OK (1 test, 1 assertion)
 ```
 
-The important bit is the `OK (1 test, 1 assertion)`.
+The important bit is the `OK (1 test, 1 assertion)`. If you see that then you've installed everything correctly to run PHPUnit!
 
 
