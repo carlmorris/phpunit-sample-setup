@@ -9,7 +9,7 @@ You can either install the software you require and run throught the commands on
 
 You need to install the following:
 
-- PHP 5.3 or higher (but not PHP 7)
+- PHP 5.3 or higher
 - Composer [Install instructions](https://getcomposer.org/doc/00-intro.md)
 
 Once installed use composer to download the required dependencies:
